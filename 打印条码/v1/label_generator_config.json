@@ -1,0 +1,15 @@
+{
+    "points_per_page": 84,
+    "rows": 14,
+    "columns": 6,
+    "x_spacing": 90,
+    "y_spacing": 57,
+    "font_size": 30,
+    "spacing": 4,
+    "x_offset": 20,
+    "y_offset": 36,
+    "x_stretch": 100,
+    "y_stretch": 100,
+    "debug_mode": true,
+    "print_grid": false
+}
